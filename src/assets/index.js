@@ -28,6 +28,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import arya from "./WhatsApp Image 2024-08-16 at 21.51.19_158dbc32.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -42,6 +43,7 @@ export {
   quizapp,
   nextjs,
   mysql,
+  arya,
   expensetracker,
   weatherapp,
   petStation,

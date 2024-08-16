@@ -3,6 +3,7 @@ import {
   backend,
   creator,
   web,
+  arya,
   nextjs,
   javascript,
   typescript,
@@ -203,7 +204,7 @@ const testimonials = [
     name: "Aryakrishna",
     designation: "MSc Physics Graduate",
     // company: "Scientific Web Tech",
-    image: "https://drive.google.com/file/d/1V53h9uSIiLdrLqoLhpj1Rkw6c3krzBZQ/view?usp=sharing",
+    image: arya,
   },
 ];
 
